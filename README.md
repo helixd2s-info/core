@@ -6,6 +6,6 @@ Redirect and reserved page...
 
   - 🥀 [about.helixd2s.su](http://about.helixd2s.su/) (там просто редирект пока что)
   - 🥀 [GitHub репозиторий](https://github.com/helixd2s/about)
-  - 🥀 [Наш Discord](https://discord.gg/8Hu2H8yghF)
-  - 🥀 [VK](https://vk.com/helixd2s)
+  - 🥀 [Discord наш сервер](https://discord.gg/v7swDye99z)
+  - 🥀 [VK паблик](https://vk.com/helixd2s)
  

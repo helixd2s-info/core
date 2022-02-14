@@ -1,4 +1,4 @@
-# Helix.D2S (IMN)
+# Helix.D2S идеология (резервный репозиторий)
 
 Redirect and reserved page... 
 

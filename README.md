@@ -1,6 +1,6 @@
 # Идеология `HeliX-D2S` (резервный репозиторий)
 
-Redirect and reserved page... 
+Redirect and reserved page… 
 
 ### Please, follow to: ➡️ [https://github.com/helixd2s/about](https://github.com/helixd2s/about) ⬅️
  

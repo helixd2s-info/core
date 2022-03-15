@@ -9,3 +9,4 @@ Redirect and reserved page…
   - 🥀 [Discord наш сервер](https://discord.gg/v7swDye99z) 
   - 🥀 [VK паблик](https://vk.com/helixd2s)
   - 🥀 [Наш сайт](http://core.helixd2s.su/) (там просто редирект пока что)
+  - 🥂 [Телега...](https://t.me/helixd2s)

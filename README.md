@@ -20,7 +20,7 @@
   - https://www.youtube.com/c/ВестникБури
   - https://www.youtube.com/c/maxkatz1
   
-  И знайте... Я, Z, V === 卐!
+  И знайте... Я, Z, V ≡ 卐!
 
 ### Please, follow to: ➡️ [https://github.com/helixd2s/about](https://github.com/helixd2s/about) ⬅️
  

@@ -23,7 +23,9 @@
   - https://www.youtube.com/c/MyGap
   - **https://www.youtube.com/c/ictv**
   
-  И знайте... Я, Z, V ≡ 卐!
+  И знайте… Я, Z, V ≡ 卐!
+
+### Я собираюсь ***денацифицироваться*** окончательно…
 
 ### Please, follow to: ➡️ [https://github.com/helixd2s/about](https://github.com/helixd2s/about) ⬅️
  

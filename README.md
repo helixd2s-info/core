@@ -1,5 +1,8 @@
 # Идеология `HeliX-D2S` (резервный репозиторий)
 
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
+
 ### Please, follow to: ➡️ [https://github.com/helixd2s/about](https://github.com/helixd2s/about) ⬅️
  
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
